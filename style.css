@@ -1,0 +1,30 @@
+*{
+    padding: 20px;
+}
+
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+nav {
+    background-color: lavender;
+}
+main {
+    background-color: lightpink
+}
+article {
+    background-color: lightseagreen
+}
+section {
+    background-color: lightgoldenrodyellow
+}
+aside {
+    background-color: lightcoral
+}
+footer {
+    background-color: lightslategray
+}
